@@ -3,3 +3,7 @@
 ## docs
 
 gitbook
+
+## build
+
+`$ gitbook build . ../book`
